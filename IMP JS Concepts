@@ -4,7 +4,19 @@ http://alistapart.com/article/getoutbindingsituations/
 
 
 -----
-ReactJS
+React-JS
 Learning - I have used async-await inside try method and I got the error
 
 Handling error with async- await => https://itnext.io/error-handling-with-async-await-in-js-26c3f20bc06a
+
+-----------
+CORE JS
+Topic - Binding
+
+https://alistapart.com/article/getoutbindingsituations/
+
+https://javascript.info/bind
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind
+
+WHAT  DOES BINDING MEAN IN JAVASCRIPT - Read stackoveflow
